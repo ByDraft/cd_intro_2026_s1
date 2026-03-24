@@ -2,3 +2,4 @@
 Archivos_cd_intro
 
 # Título principal (H1)
+![Texto alternativo](clase_perdidos.jpg)
